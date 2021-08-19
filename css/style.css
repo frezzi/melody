@@ -105,6 +105,7 @@ path.current-floor {
 	cursor: pointer;
 	background-color: #fff;
 	border: none;
+	outline: none;
 }
 
 .counter-arrow-down {
