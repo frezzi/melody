@@ -4,9 +4,8 @@ $(document).ready(function() {
 	let counterUp = $(".counter-up");
 	let counterDown = $(".counter-down");
 	let modal = $(".modal");
-	let modalCloseButton = $(".modal-close-button")
-	let viewFlats = $(".view-flats")
-	let flats = $(".modal-image path")
+	let modalCloseButton = $(".modal-close-button");
+	let viewFlats = $(".view-flats");
 
 
 	floorPath.on('mouseover', function(){
